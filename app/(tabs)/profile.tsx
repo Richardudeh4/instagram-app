@@ -2,8 +2,8 @@ import {Text} from 'react-native';
 
 export default function Profile(){
     return(
-        <Text>
-richard udeh
+        <Text className='text-red-700'>
+        richard udeh
         </Text>
     )
 }

@@ -1,7 +1,10 @@
-import { Text } from "react-native";
+import { Text, View } from "react-native";
 
-export default function TabsIndex(){
+export default function FeedScreen(){
     return (
-        <Text>richard</Text>
+        <View className="bg-slate-500">
+        <Text className="text-5xl font-bold">richard</Text>
+        </View>
+       
     )
 }
